@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtpApi", "AtpApi\AtpApi.csproj", "{55176D73-E49C-429C-9FC4-EFE609A71D37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55176D73-E49C-429C-9FC4-EFE609A71D37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55176D73-E49C-429C-9FC4-EFE609A71D37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55176D73-E49C-429C-9FC4-EFE609A71D37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55176D73-E49C-429C-9FC4-EFE609A71D37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {798FC395-94D8-4AA7-A9BA-FB0DBFBF50BC}
+	EndGlobalSection
+EndGlobal
